@@ -1,4 +1,4 @@
-<form method="post">
+<form method="post">https://github.com/22731K/p1-html-css/blob/main/PHP/opdracht%207.7.php
     Startkapitaal <input type="text" name="start" value="100000"> <br>
     Rentepercentage <input type="text" name="rente" value="4" max="8"> <br>
     Jaarlijkse opname <input type="text" name="opname" value="" min="4700"> <br>
